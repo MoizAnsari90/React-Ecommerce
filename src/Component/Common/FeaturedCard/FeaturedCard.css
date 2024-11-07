@@ -1,0 +1,25 @@
+
+
+.FeatureCard-Wrapper{
+    width: 90%;
+    height: 250px;
+    border-radius: 5px;
+    margin-top: 25px;
+    font-family: sans-serif;
+    
+    
+}
+.Feature-Box-Wrapper{
+    width: 90%;
+    height: 90%;
+    object-fit: contain;
+    gap: 20px;
+
+}
+.Feature-Box-Wrapper img{
+    margin-top: 10px;
+    width: 90%;
+    height: 90%;
+    border-radius: 5px;
+    
+}

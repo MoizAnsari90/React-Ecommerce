@@ -1,0 +1,25 @@
+
+
+.CategoryCard-Wrapper{
+    width: 20%;
+    height: 500px;
+    background-color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    color: white;
+}
+.Cat-Wrapper{
+    width: 70%;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.Cat-Wrapper img{
+    width: 100%;
+    height: 100%;
+}

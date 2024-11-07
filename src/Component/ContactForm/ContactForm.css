@@ -1,0 +1,32 @@
+.Contact-Wrapper{
+    width: 35%;
+    height: 400px;
+    background-color:rgb(117, 117, 122);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 20px;
+    margin-top: 8%;
+    color: white;
+}
+.Form-Wrapper{
+    width: 50%;
+    height: 50%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.Form-Wrapper input{
+    width: 200px;
+    align-items: center;
+    display: flex;
+    padding: 5px;
+}
+.Form-Wrapper p{
+    font-size: 2;
+}
